@@ -1,0 +1,8 @@
+# Visual Studio 暫存檔案
+.vs/
+[Bb]in/
+[Obj]/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
