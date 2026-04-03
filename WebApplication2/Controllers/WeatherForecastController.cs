@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Text;
 
 
 namespace WebApplication2.Controllers {
@@ -19,7 +20,13 @@ namespace WebApplication2.Controllers {
 
         [HttpPost]
         public async Task<DateTime> Get() {
-            return  DateTime.Now;
+            return DateTime.Now;
         }
+
+        [HttpPost]
+        public async Task<string> TextBack() {
+            return "testComplete";
+        }
+
     }
 }

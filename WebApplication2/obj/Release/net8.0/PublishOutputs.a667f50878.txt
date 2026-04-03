@@ -1,0 +1,11 @@
+C:\Users\k1234\source\repos\WebApplication2\publish\WebApplication2.exe
+C:\Users\k1234\source\repos\WebApplication2\publish\appsettings.Development.json
+C:\Users\k1234\source\repos\WebApplication2\publish\appsettings.json
+C:\Users\k1234\source\repos\WebApplication2\publish\WebApplication2.dll
+C:\Users\k1234\source\repos\WebApplication2\publish\WebApplication2.deps.json
+C:\Users\k1234\source\repos\WebApplication2\publish\WebApplication2.runtimeconfig.json
+C:\Users\k1234\source\repos\WebApplication2\publish\WebApplication2.pdb
+C:\Users\k1234\source\repos\WebApplication2\publish\Microsoft.OpenApi.dll
+C:\Users\k1234\source\repos\WebApplication2\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\k1234\source\repos\WebApplication2\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\k1234\source\repos\WebApplication2\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
